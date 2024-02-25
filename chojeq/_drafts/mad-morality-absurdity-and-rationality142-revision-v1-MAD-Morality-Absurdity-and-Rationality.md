@@ -1,0 +1,17 @@
+---
+id: 144
+title: 'MAD: Morality , Absurdity, and Rationality'
+date: '2023-06-25T19:37:58+08:00'
+author: jeqcho
+layout: revision
+guid: 'https://chojeq.com/?p=144'
+permalink: '/?p=144'
+---
+
+Say Russia launched nukes at the the United States. Interception is painstakingly difficult especially with multiple warheads per target, with the American cities essentially guaranteed to be destroyed. In accordance with Mutually-Assured Destruction (MAD), the American government should retaliate by launching its own nukes towards Russian cities, before the Russian nukes can incapacitate the American missile silos. However, this is a merely game theory declaration to deter any nuclear aggression. Once the aggression is materialised, the deterrence has already failed, and whatever actions decided *after* serves no purpose apart from revenge.
+
+Existential revenge. Nuclear retaliation is not Pavlovian, and serves no informational purpose for both parties to learn and adapt. WarGames (1983) and The Dark Forest (2008) explored the reluctance of individual agents to engage in MAD retaliation. Once the first weapons of mass destruction are en route, what would be the point of destroying other civilisations? By retaliating, we will not be able to alter the sealed fate of the hundreds of millions of Americans; we simply admit more people, whom we call enemies, to hell. If our aim is to survive, we have already failed, and there will be no rational motivation to pursue any actions. The very essence of conscious thought is extinguished, and the sentience of the agent becomes irrelevant, devoid of free will in the absence of its objective function. Rationality will ensure that our launch agents will not retaliate, unless we brainwash our launch agents into mindless machines of executing orders.
+
+How about evolution? The rational launch agent might arrive at the idea that retaliation will apply selection pressure on trigger-happy aggressors, similar to how bees sting in a kamikaze fashion, sacrificing individual members for the collective survival of the colony. In our case, the sting of retaliation contributes to the perpetuity of the human race, or whatever remains of it. However, such a launch agent will already be at odds with their government, since the sole objective function of the government must be the survival of the nation, and not the collective wellbeing of the entire human race. In all seriousness, however, no human intelligence should have the audacity to plan evolution *ahead*. We can only use this tool to explain certain features and strategies in *hindsight*. The complex systems involved in evolution has rendered any attempt to forecast selection outcomes as futile as shining a phone torchlight against the oppressive darkness of the Mariana Trench.
+
+In practice, MAD operates on absurdity: the weapons are controlled by irrational and immoral humans. If we are of any hope to deter aggression in a world with increasingly blind rationality or morality, we cannot entrust the human with the decision to retaliate. The assurance of retaliation must be ingrained in an automated system, predetermined and impervious to the possibility of second thoughts after detection. To redeem rationality and morality, to liberate our launch agents from absurdity, we need to relegate the choice of retaliation to automated systems with the sole objective function of achieving MADness.

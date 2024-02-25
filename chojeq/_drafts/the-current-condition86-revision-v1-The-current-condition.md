@@ -1,0 +1,37 @@
+---
+id: 87
+title: 'The current condition'
+date: '2021-12-28T03:42:38+08:00'
+author: jeqcho
+layout: revision
+guid: 'https://chojeq.com/?p=87'
+permalink: '/?p=87'
+---
+
+The death of curiosity
+
+Lack lustre dreams
+
+How the gravel is made
+
+Anarchy of the conscious and the unconscious
+
+Obsessed with vague notions of death
+
+Questionable
+
+Parched dry throat
+
+Angst of the adolescent?
+
+I should use Twitter
+
+Growing up?
+
+Or losing innocence
+
+Becoming of a “man”
+
+Does jumbled thoughts count as poetry?
+
+Human condition befalls
