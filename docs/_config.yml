@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Projects &amp; Blogs of a Malaysian kid
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://chojeq.com'
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  jeqcho
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
