@@ -3,6 +3,7 @@ title: 'How to get into Harvard'
 date: '2024-02-25'
 author: jeqcho
 layout: single
+permalink: /how-to-get-into-harvard/
 categories:
     - Uncategorized
 ---
