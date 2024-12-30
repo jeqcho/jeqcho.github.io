@@ -15,4 +15,4 @@ Or maybe you came to [stalk](http://stalk.chojeq.com) me. That’s fine, just re
 
 I host my hobby projects and blog here on [chojeq.com](https://chojeq.com). Try to hack them, or let me know if you have any new ideas. Everything here is released under MIT license, except for this [super important thing](https://chojeq.com/super-important-thing.html).
 
-I really appreciate feedback to be a better person for my friends, family and society. Feel free to drop a feedback [here](https://chojeq.com/feedback) if you know me. It can be anonymous, but I will buy you a meal in the future if you let me know that you gave me a feedback.
+I value feedback as a way to grow and better serve my friends, family, and community. If you know me, feel free to share your thoughts [here](/feedback). You can stay anonymous, but if you let me know who you are, now or sometime in the future, I would love to treat you to a meal as a thank you!
