@@ -14,3 +14,5 @@ Maybe you don’t know me and came for the [red buttons](https://red-buttons.cho
 Or maybe you came to [stalk](http://stalk.chojeq.com) me. That’s fine, just remember to give a like or follow.
 
 I host my hobby projects and blog here on [chojeq.com](https://chojeq.com). Try to hack them, or let me know if you have any new ideas. Everything here is released under MIT license, except for this [super important thing](https://chojeq.com/super-important-thing.html).
+
+I really appreciate feedback to be a better person for my friends, family and society. Feel free to drop a feedback [here](https://chojeq.com/feedback) if you know me. It can be anonymous, but I will buy you a meal in the future if you let me know that you gave me a feedback.
