@@ -121,32 +121,56 @@ a:focus-visible {
   color: #333;
 }
 
-.research table {
-  width: 100%;
-  border-collapse: collapse;
+.paper-list {
+  list-style: none;
 }
 
-.research td {
+.paper-list li {
   padding: 0.7rem 0;
-  vertical-align: top;
-  font-size: 0.9rem;
   border-bottom: 1px solid #eee;
+  font-size: 0.9rem;
+  color: #555;
 }
 
-.research td a {
+.paper-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.paper-info {
+  flex: 1;
+}
+
+.paper-info em {
+  display: block;
+  margin-top: 0.15rem;
+}
+
+.date {
+  flex-shrink: 0;
+  color: #888;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.paper-list li a {
   border-bottom: none;
 }
 
-.research td a:hover {
+.paper-list li a:hover {
   border-bottom: 1px solid #1a1a1a;
 }
 
-.research td.date {
-  white-space: nowrap;
-  text-align: right;
+.paper-list li strong {
+  color: #1a1a1a;
+}
+
+.coauthors {
+  display: block;
+  font-size: 0.82rem;
   color: #888;
-  padding-left: 2rem;
-  font-size: 0.85rem;
+  margin-top: 0.1rem;
 }
 
 /* Contact page */
@@ -186,13 +210,11 @@ a:focus-visible {
 
   .details h1 {
     font-size: 1.6rem;
+    text-align: center;
   }
 
   .research {
     padding: 1.5rem 1.5rem 3rem;
   }
 
-  .research td.date {
-    padding-left: 1rem;
-  }
 }
