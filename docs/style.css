@@ -177,6 +177,26 @@ a:focus-visible {
   margin-top: 0.1rem;
 }
 
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.35rem;
+}
+
+.paper-links a {
+  font-size: 0.82rem;
+  color: #2156a5;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  border-bottom: none;
+}
+
+.paper-list li .paper-links a:hover {
+  color: #0b3a82;
+  border-bottom: none;
+}
+
 /* Writings page */
 .writings-page {
   max-width: 700px;
