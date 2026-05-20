@@ -186,14 +186,14 @@ a:focus-visible {
 
 .paper-links a {
   font-size: 0.82rem;
-  color: #2156a5;
+  color: #555;
   text-decoration: underline;
   text-underline-offset: 2px;
   border-bottom: none;
 }
 
 .paper-list li .paper-links a:hover {
-  color: #0b3a82;
+  color: #1a1a1a;
   border-bottom: none;
 }
 
